@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilkihewage&label=Profile%20views&color=0e75b6&style=flat" alt="dilkihewage" /> </p>
 
-- 🔭 I’m currently working on **Campsite Management System**
+- 🔭 I’m currently working on **DIE-CRAFT SKILL SHARING AND LEARNING SOCIAL MEDIA PLATFORM**
 
 - 🌱 I’m currently learning **Java**
 
-- 👯 I’m looking to collaborate on **Campsite Management System**
+- 👯 I’m looking to collaborate on **DIE-CRAFT SKILL SHARING AND LEARNING SOCIAL MEDIA PLATFORM**
 
 - 💬 Ask me about **Java and Java Script**
 
